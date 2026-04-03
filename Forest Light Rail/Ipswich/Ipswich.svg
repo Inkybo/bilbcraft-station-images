@@ -29,13 +29,13 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="0.14737924"
-     inkscape:cx="5356.9282"
-     inkscape:cy="1452.0363"
-     inkscape:window-width="1920"
-     inkscape:window-height="1010"
-     inkscape:window-x="1920"
+     inkscape:cx="4573.2357"
+     inkscape:cy="1455.4289"
+     inkscape:window-width="1390"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
      inkscape:window-y="23"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <sodipodi:guide
        position="0,152.4"
@@ -152,9 +152,9 @@
        y="0"><tspan
          x="3278.6934"
          y="-322.44039"
-         id="tspan16320"><tspan
+         id="tspan621"><tspan
            style="font-size:400px;font-family:'Helvetica Medium';-inkscape-font-specification:'Helvetica Medium, Normal';text-align:center;text-anchor:middle"
-           id="tspan16318">IPSWICH</tspan></tspan></text>
+           id="tspan619">IPSWICH</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.35875311,0,0,0.35875311,-864.79331,471.27649)"
@@ -162,11 +162,11 @@
        style="font-size:9.5px;line-height:1.25;font-family:BritishRailLightNormal;-inkscape-font-specification:'BritishRailLightNormal, Normal';text-align:end;white-space:pre;shape-inside:url(#rect19505-1);display:inline"
        x="-93.599998"
        y="0"><tspan
-         x="4359.1855"
+         x="3897.1738"
          y="-322.44039"
-         id="tspan16324"><tspan
+         id="tspan625"><tspan
            style="font-size:400px;font-family:'Helvetica Medium';-inkscape-font-specification:'Helvetica Medium, Normal';text-align:center;text-anchor:middle"
-           id="tspan16322">TO CHATHAM</tspan></tspan></text>
+           id="tspan623">TO CHATHAM HILL</tspan></tspan></text>
     <g
        id="g6900-3-3-3-9"
        transform="matrix(5.6444719,0,0,5.6444719,43.705906,-1879.2213)"
