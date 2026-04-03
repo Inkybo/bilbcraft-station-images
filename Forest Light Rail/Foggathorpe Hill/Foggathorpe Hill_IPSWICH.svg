@@ -8,7 +8,7 @@
    version="1.1"
    id="svg7060"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
-   sodipodi:docname="Foggathorpe Hill.svg"
+   sodipodi:docname="Foggathorpe Hill_IPSWICH.svg"
    inkscape:export-filename="FLR SIZE TEST.png"
    inkscape:export-xdpi="8.5333338"
    inkscape:export-ydpi="8.5333338"
@@ -29,8 +29,8 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="0.22443359"
-     inkscape:cx="5048.264"
-     inkscape:cy="423.28781"
+     inkscape:cx="4210.5997"
+     inkscape:cy="414.37648"
      inkscape:window-width="1920"
      inkscape:window-height="1010"
      inkscape:window-x="1920"
@@ -137,9 +137,9 @@
        y="0"><tspan
          x="2198.2246"
          y="-322.44039"
-         id="tspan437"><tspan
+         id="tspan561"><tspan
            style="font-size:400px;font-family:'Helvetica Medium';-inkscape-font-specification:'Helvetica Medium, Normal';text-align:center;text-anchor:middle"
-           id="tspan435">FOGGATHORPE HILL</tspan></tspan></text>
+           id="tspan559">FOGGATHORPE HILL</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.35875311,0,0,0.35875311,-386.59083,471.27649)"
@@ -147,10 +147,10 @@
        style="font-size:9.5px;line-height:1.25;font-family:BritishRailLightNormal;-inkscape-font-specification:'BritishRailLightNormal, Normal';text-align:end;white-space:pre;shape-inside:url(#rect19505-1);display:inline"
        x="-93.599998"
        y="0"><tspan
-         x="2225.6426"
+         x="1920.3691"
          y="-322.44039"
-         id="tspan441"><tspan
+         id="tspan565"><tspan
            style="font-size:400px;font-family:'Helvetica Medium';-inkscape-font-specification:'Helvetica Medium, Normal';text-align:center;text-anchor:middle"
-           id="tspan439">(A) IPSWICH, (C) CURE</tspan></tspan></text>
+           id="tspan563">TO (A) IPSWICH, (C) CURE</tspan></tspan></text>
   </g>
 </svg>
